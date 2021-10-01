@@ -1,0 +1,18 @@
+.view {
+    background-color: #ffff;
+    border: 1px solid #4CAF50;
+    color: #4CAF50;
+    padding: 15px 70px;
+    margin-bottom: 20px;
+    text-align: center;
+    /*text-decoration: none;*/
+    display: inline-block;
+    font-size: 16px;
+}
+
+.view:hover {
+    background-color: #4CAF50;
+    border: 1px solid #ffff;
+    color: #ffff;
+    cursor: pointer;
+}

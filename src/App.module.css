@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 75px 75px 75px;
+  grid-gap: 10px;
+}
+
